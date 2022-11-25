@@ -1,6 +1,6 @@
 #!/bin/sh
-echo "get ready"
 
+echo "get ready"
 echo "upgrade total system!..."
 sudo apt upgrade -y
 echo "system update!..."
